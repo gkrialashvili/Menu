@@ -61,11 +61,14 @@ span {
 }
 /*rice and nodle*/
 .menu-box-3 {
-
 	height: 79px;
 	margin: 13px 25px 1px 0;
 }
 .nd {
-
     top: 0px;
+}
+/*soups*/
+.menu-box-4 {
+	height: 79px;
+	margin:15px 25px 15px 0;
 }
