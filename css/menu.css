@@ -43,6 +43,12 @@ img {
 	margin: 13px 0 0 7px;
 }
 span {
-	border: solid 1px red;
+	border: solid 1px #F15B2C;
 	margin-right: 5px;
+}
+/*roll style*/
+.menu-box-2 {
+	width: 130px;
+	height: 55px;
+	margin: 10px 25px 27px 0;
 }
