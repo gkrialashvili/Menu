@@ -1,13 +1,32 @@
 .main-container {
 	max-width: 1366px;
 	height: auto;
-	border: solid;
 	padding: 20px 15px;
-	background-image: url("img/back.jpg");
+	background-color: black;
 }
 .flex {
 	display: flex;
 }
+.menu-block {
+	flex-direction: column;
+}
+.menu-box {
+	margin-bottom: 30px;
+}
 img {
-	width: 30px;
+	width: 50px;
+	padding: 10px 7px 0 0;
+}
+p {
+	color: #D1AF7D;
+	font-size: 9px;
+	margin-top: 10px;
+}
+span {
+	border: solid 1px red;
+	margin-right: 5px;
+	color: #fff;
+}
+.font {
+	font-family: "Myriad Pro";
 }
