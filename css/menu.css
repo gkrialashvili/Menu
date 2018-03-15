@@ -50,5 +50,10 @@ span {
 .menu-box-2 {
 	width: 130px;
 	height: 55px;
-	margin: 10px 25px 27px 0;
+	margin: 15px 25px 27px 0;
+}
+.item-2 {
+	color: #D1AF7D;
+	font-size: 9px;
+	margin-bottom: 25px;
 }
