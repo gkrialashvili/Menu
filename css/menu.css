@@ -1,5 +1,5 @@
 html, body {
-	width: 100%
+	width: 100%;
 	height:100%;
 	background-color: #27312D;
 }
@@ -28,11 +28,11 @@ html, body {
 }
 .title {
  	color: #F8D59B;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 img {
-	width: 55px;
+	width: 70px;
     position: relative;
     top: 11px;
 }
@@ -42,13 +42,13 @@ img {
 
 .item {
 	color: #D1AF7D;
-	font-size: 9px;
+	font-size: 11px;
 	margin-top: 10px;
 }
 .weight {
 	color: #fff;
-	font-size: 9px;
-	margin: 22px 0 0 7px;
+	font-size: 11px;
+	margin: 22px 0 0 2px;
 }
 span {
 	border: solid 1px #F15B2C;
@@ -62,7 +62,7 @@ span {
 }
 .item-2 {
 	color: #D1AF7D;
-	font-size: 9px;
+	font-size: 11px;
 	margin-bottom: 25px;
 }
 /*rice and nodle*/
@@ -80,11 +80,11 @@ span {
 }
 /*dessert*/
 .moch {
-	top: 17px;
+	top: 24px;
 }
 .mochi {
 	color: white;
-	font-size: 8px;
+	font-size: 12px;
 }
 .mochi-img {
 	top:6px;
