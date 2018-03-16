@@ -49,11 +49,17 @@ img {
 .weight {
 	color: #fff;
 	font-size: 11px;
-	margin: 22px 0 0 2px;
+	margin: 19px 0 0 2px;
 }
 span {
 	border: solid 1px #F15B2C;
 	margin-right: 5px;
+}
+.gr {
+	padding: 5px 2px 5px 0;
+}
+.num {
+	padding: 5px 2px 5px 2px;
 }
 /*roll style*/
 .menu-box-2 {
