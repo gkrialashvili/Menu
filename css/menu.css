@@ -63,7 +63,7 @@ span {
 }
 .item-2 {
 	color: #D1AF7D;
-	font-size: 11px;
+	font-size: 10px;
 	margin-bottom: 25px;
 }
 /*rice and nodle*/
@@ -81,11 +81,11 @@ span {
 }
 /*dessert*/
 .moch {
-	top: 24px;
+	top: 35px;
 }
 .mochi {
 	color: white;
-	font-size: 12px;
+	font-size: 10px;
 }
 .mochi-img {
 	top:6px;
