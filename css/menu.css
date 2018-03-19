@@ -7,7 +7,6 @@ html, body {
 .main-container {
 	height: 100%;
 	padding: 22px 30px;
-	flex-wrap: wrap;
 }
 .font {
 	font-family: "Myriad Pro";
@@ -112,4 +111,56 @@ span {
 .drinks {
 	height: 50px;
 	top: 9px;
+}
+	.main-container {
+		flex-wrap: wrap;
+	}
+	/*.menu-block {
+		width: 16.666666666%;
+	}*/
+
+}	
+
+@media (max-width: 1000px) {
+	.main-container {
+		flex-wrap: wrap;
+	}
+	.menu-block {
+		width: 20%;
+	}
+
+}	
+	
+@media (max-width: 960px) {
+	.main-container {
+		flex-wrap: wrap;
+	}
+	.menu-block {
+		width: 25%;
+	}
+}
+@media (max-width: 860px) {
+	.main-container {
+		flex-wrap: wrap;
+	}
+	.menu-block {
+		width: 33.33333333333333%;
+	}
+}
+@media (max-width: 665px) {
+	.main-container {
+		flex-wrap: wrap;
+	}
+	.menu-block {
+		width: 50%;
+	}
+}
+@media (max-width: 500px) {
+	.main-container {
+		flex-wrap: wrap;
+		vertical-align: middle;
+	}
+	.menu-block {
+		width: 100%;
+	}
 }
