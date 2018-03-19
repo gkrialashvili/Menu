@@ -112,6 +112,7 @@ span {
 	height: 50px;
 	top: 9px;
 }
+@media (max-width: 1080px) {
 	.main-container {
 		flex-wrap: wrap;
 	}
