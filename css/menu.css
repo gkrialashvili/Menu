@@ -6,8 +6,8 @@ html, body {
 
 .main-container {
 	height: 100%;
-	min-width: 1200px;
 	padding: 22px 30px;
+	flex-wrap: wrap;
 }
 .font {
 	font-family: "Myriad Pro";
